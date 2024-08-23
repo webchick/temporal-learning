@@ -20,7 +20,7 @@ To follow the PHP SDK tutorials and build your own Temporal applications with PH
 
 ## Install the PHP SDK
 
-Install the PHP SDK using Composer:
+Install the PHP SDK using [Composer](https://getcomposer.org/):
 
 ```command
 composer require temporal/sdk
